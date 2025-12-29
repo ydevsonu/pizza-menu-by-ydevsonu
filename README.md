@@ -24,8 +24,10 @@ The app demonstrates **dynamic UI updates**, **event handling for buttons**, and
 ---
 
 ## 🛠 Technologies Used
-- **HTML5** – Structure of the menu and cart.  
-- **CSS3** – Styling, layout, and hover effects.  
-- **JavaScript (ES6+)** – DOM manipulation, event handling, dynamic rendering of menu and cart items.
+- **HTML5** – Structure of the menu and cart.
+- - **CSS3** – Styling, layout, and responsive design  
+- **JavaScript (ES6+)** – Logic and interactivity  
+- **React** – Component-based architecture and state management .
+
 
 
